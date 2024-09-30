@@ -25,4 +25,4 @@ npm : 10.7
 ## How to use 
 
 1. Clone this Repo
-2. ```bash npm install```
+2. ```npm install```
